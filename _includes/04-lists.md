@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Kayaking
+* Hiking
+  * Red River Gorge
+  * Mt. LeConte
